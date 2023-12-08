@@ -16,4 +16,24 @@ As principais funcionalidades são:
 
 ## ⬇️ Download do projeto
 
-O projeto pode ser baixado clicando <a href="" download>aqui</a>
+O projeto pode ser baixado clicando <a href="https://github.com/leandro-pessoa/fokus/archive/refs/heads/main.zip" download>aqui</a>.
+
+## 🛠️ Executando o projeto
+
+Para executar o projeto na sua máquina, faça:
+
+- Realize o download do projeto
+- Abra na sua IDE favorita
+- Rode com o live server
+
+Ou acesse <a href="https://leandro-pessoa.github.io/fokus/index.html">esse link</a> para ver na github pages.
+
+## ⚛️ Tecnologias utilizadas
+
+- `HTML5`
+- `CSS`
+- `JavaScript`
+
+## :hurtrealbad: Desenvolvedores
+
+Desenvolvido por [Leandro Pessoa](https://github.com/leandro-pessoa) durante os cursos de JavaScript da [Alura](https://alura.com)
